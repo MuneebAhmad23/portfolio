@@ -1,5 +1,5 @@
 # Portfolio
-* Open `resume.html` to view the resume.
+* Open `porfolio.html` to view the resume.
 * The resume includes the following sections:
 
   * About Me
